@@ -30,8 +30,9 @@ public class IntroToRandom {
 		int randomChoice22 = Bob.nextInt(((88 - -222) + 1) + -222);
 
 		// 1. Print out the value of r
-
+		System.out.println(r);
 		// 2. Run the program. What number appears in the console?
 		// Run it again. Is the number the same?
+
 	}
 }

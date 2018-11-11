@@ -41,7 +41,6 @@ public class Magic8Ball {
 			JOptionPane.showMessageDialog(null, "Maybe you should ask google");
 		}
 		// -- tell the user "Maybe you should ask Google?"
-
 		// 8. If the random number is 3
 		if (number == 3) {
 			JOptionPane.showMessageDialog(null, "NO");
